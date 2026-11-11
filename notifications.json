@@ -1,11 +1,18 @@
 {
   "notices": [
     {
+      "id": "discord-updub-2026-11",
+      "type": "community",
+      "title": "Discord UpDub! 🇧🇷",
+      "message": "Entre na comunidade do UpDub+ para acompanhar novidades, falar com a equipe e saber dos próximos fan-dubs. Projeto e responsável: github.com/masterotaku487-arch/updub.",
+      "date": "2026-11-11T14:02:00-03:00"
+    },
+    {
       "id": "welcome-2026-10",
       "type": "app",
       "title": "Bem-vindo ao Up Dub+",
       "message": "Versão teste!",
-      "date": "2026-10-9T12:00:00-03:00"
+      "date": "2026-10-09T12:00:00-03:00"
     }
   ]
 }
